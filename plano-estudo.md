@@ -120,6 +120,5 @@ Aqui está um **plano de estudos passo a passo para aprender lógica de programa
 
 ### 🔥 Próximo passo
 
-* [EXERCÍCIOS DE LÓGICA COM RESOLUÇÃO](exercicios.md)
 
 Bons estudos 😉
